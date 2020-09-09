@@ -1,0 +1,32 @@
+### this displays button style
+img {
+    border-radius: 10px;
+}
+
+button {
+    margin: 5px;
+    border-radius: 10px;
+    border: aqua;
+    color: blueviolet
+    padding: 10px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+### upvote
+{
+    background-color: chartreuse;
+
+}
+
+### downvote
+{
+background-color: crimson;
+}
+
+### votes
+{
+    font-weight: bold;
+    font-size: 36px;
+    
+}
